@@ -461,7 +461,7 @@ $(document).ready(function(){
 	
 });
 function confirmaciones() {
-    window.open("https://docs.google.com/spreadsheets/d/1KFW_1vi4KKqBXMbvYfz3sRVKZ03RBrOXMs06YVhboTI/edit?usp=sharing");        
+    window.open("https://docs.google.com/spreadsheets/d/1ImOkgPK15jNT9mKr-g3wl9NDGVLKb8VQsdCaLo5oY5g/edit?usp=drive_link");        
 }
 function personas1() {
     window.open("pases/inicio1.html", "_self");        
